@@ -1,1 +1,8 @@
 # YouBike-Plus
+YouBike is Taipei's well-established city bike system. Many cities in the world had introduced similar city bike systems but few achieved finically sustainability.
+
+However, the emerging trend - the "bike as you go" model such as OBike, and China's MoBike, ofo - had revolutionized the imagination of public bike. How can the fixed-station model like YouBike face the new challenge?
+
+What if we can take advantage of the space of the fixed bike stations? What if we can offer more value at those stations? and How can the stations better respond to the city's needs?
+
+By analyzing open data of nearly 300 stations in Taipei, accompanied with field study on how citizens use the bikes, the project suggested alternative possibilities of the bike stations.
