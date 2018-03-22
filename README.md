@@ -13,3 +13,5 @@ By analyzing open data of nearly 300 stations in Taipei, accompanied with field 
 - The GIS layers were set in CRS TWD-97, with few exeptions in WGS-84. Encoding were Big-5.
 
 - For trouble shooting, please contact: info@ivc.city
+
+- If you only need YouBike raw csv data (date: 2017.01.03) we used in QGIS, you can download the zip file outsite qgis folder.
